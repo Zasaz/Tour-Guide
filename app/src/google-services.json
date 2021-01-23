@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014091515966",
+    "firebase_url": "https://tour-guide-67578.firebaseio.com",
+    "project_id": "tour-guide-67578",
+    "storage_bucket": "tour-guide-67578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014091515966:android:1a72b2be62b7f3098a296f",
+        "android_client_info": {
+          "package_name": "com.example.umair.tourguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014091515966-3lblfvgd0gv7v189ek197a7pl5a08n0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfatxm0gJExQRLz9nFAwrbMnMt4b3MOgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014091515966-3lblfvgd0gv7v189ek197a7pl5a08n0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

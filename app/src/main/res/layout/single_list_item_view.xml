@@ -9,7 +9,7 @@
         android:id="@+id/location_image"
         android:layout_width="@dimen/location_image_width"
         android:layout_height="@dimen/location_image_height"
-        tools:src="@drawable/lalbhai_dalpatbhai_museum_1"
+        tools:src="@drawable/badshahi_Mosque"
         tools:ignore="ContentDescription"
         android:scaleType="centerCrop"
         android:layout_gravity="center_vertical"/>
@@ -30,8 +30,8 @@
                android:gravity="start"
                android:textAppearance="?android:textAppearanceMedium"
                android:textColor="@android:color/black"
-               tools:text="@string/lalbhai_dalpatbhai_museum"
-               android:textStyle="italic|bold"
+               tools:text="@string/Badshahi_Mosque"
+               android:textStyle="bold"
                android:paddingStart="@dimen/padding_start_end"
                android:paddingEnd="@dimen/padding_start_end"/>
             <ImageView
@@ -47,7 +47,7 @@
             android:layout_height="wrap_content"
             android:gravity="top"
             android:textAppearance="?android:textAppearanceSmall"
-            tools:text="@string/lalbhai_dalpatbhai_museum_address"
+            tools:text="@string/Badshahi_Mosque_Address"
             android:paddingStart="@dimen/padding_start_end"
             android:paddingEnd="@dimen/padding_start_end"/>
     </LinearLayout>

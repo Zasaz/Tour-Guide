@@ -3,6 +3,19 @@
     <color name="colorPrimary">#FBF7FB</color>
     <color name="colorPrimaryDark">#E3E0E2</color>
     <color name="colorAccent">#FF4081</color>
-
     <color name="materialGray600">#757575</color>
+    <color name="DarkPink">#880E4F</color>
+    <color name="Orange">#E65100</color>
+    <color name="Green900">#1B5E20</color>
+    <color name="Teal900">#004D40</color>
+    <color name="Red200">#EF9A9A</color>
+    <color name="Purple100">#E1BEE7</color>
+    <color name="Green50">#81C784</color>
+    <color name="Green100">#C8E6C9</color>
+    <color name="Lime900">#827717</color>
+    <color name="GreenA200">#69F0AE</color>
+    <color name="Gray800">#424242</color>
+    <color name="Gray600">#757575</color>
+    <color name="Gray500">#9E9E9E</color>
+    <color name="Gray100">#F5F5F5</color>
 </resources>
